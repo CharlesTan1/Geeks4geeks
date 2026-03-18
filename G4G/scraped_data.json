@@ -1,0 +1,112 @@
+[
+  {
+    "url": "https://www.geeksforgeeks.org/method-visibility-in-ruby/",
+    "topic_title": "Method Visibility in Ruby",
+    "difficulty": "Not Available",
+    "key_concepts": "Method visibility in Ruby refers that instance methods can be public, private or protected. Methods are by default public unless they are explicitly declared",
+    "code_snippets": [],
+    "complexity": "Not Available",
+    "references": [
+      "https://www.geeksforgeeks.org/method-visibility-in-ruby/"
+    ]
+  },
+  {
+    "url": "https://www.geeksforgeeks.org/ruby-array-reverse_each-function/",
+    "topic_title": "Ruby | Array reverse_each() function",
+    "difficulty": "Not Available",
+    "key_concepts": "reverse_each() is a Array class method which traverses self in reverse order. Syntax: Array.reverse_each() Parameter: Array Return: traverses self in reverse",
+    "code_snippets": [],
+    "complexity": "Not Available",
+    "references": [
+      "https://www.geeksforgeeks.org/ruby-array-reverse_each-function/"
+    ]
+  },
+  {
+    "url": "https://www.geeksforgeeks.org/ruby/ruby-programming-language/",
+    "topic_title": "Ruby Programming Language",
+    "difficulty": "Not Available",
+    "key_concepts": "Ruby is a popular backend programming language, widely used for building modern applications and services. It makes development faster,",
+    "code_snippets": [],
+    "complexity": "Not Available",
+    "references": [
+      "https://www.geeksforgeeks.org/ruby/ruby-programming-language/"
+    ]
+  },
+  {
+    "url": "https://www.geeksforgeeks.org/blogs/comparing-ruby-programming-languages/",
+    "topic_title": "Comparing Ruby with Other Programming Languages",
+    "difficulty": "Not Available",
+    "key_concepts": "Ruby is based on many other languages like Perl, Lisp, Smalltalk, Eiffel and Ada. It is an interpreted scripting language, means most of its implementations",
+    "code_snippets": [],
+    "complexity": "Not Available",
+    "references": [
+      "https://www.geeksforgeeks.org/blogs/comparing-ruby-programming-languages/"
+    ]
+  },
+  {
+    "url": "https://www.geeksforgeeks.org/ruby/ruby-on-rails-tutorial/",
+    "topic_title": "Ruby on Rails Tutorial",
+    "difficulty": "Not Available",
+    "key_concepts": "Ruby on Rails is a web app development framework based on MVC system and it is known as a framework for data base driven web app....",
+    "code_snippets": [],
+    "complexity": "Not Available",
+    "references": [
+      "https://www.geeksforgeeks.org/ruby/ruby-on-rails-tutorial/"
+    ]
+  },
+  {
+    "url": "https://www.geeksforgeeks.org/ruby-time-to_i-function/",
+    "topic_title": "Ruby | Time to_i() function",
+    "difficulty": "Not Available",
+    "key_concepts": "Time#to_i() is a Time class method which returns the value of time as an integer number of seconds since the Epoch....",
+    "code_snippets": [],
+    "complexity": "Not Available",
+    "references": [
+      "https://www.geeksforgeeks.org/ruby-time-to_i-function/"
+    ]
+  },
+  {
+    "url": "https://www.geeksforgeeks.org/ruby/how-to-add-key-and-value-to-hash-in-ruby/",
+    "topic_title": "How to Add Key and Value to Hash in Ruby?",
+    "difficulty": "Not Available",
+    "key_concepts": "In Ruby, hashes are created using curly braces {} with key-value pairs separated by commas. They are similar to arrays, but they use keys as",
+    "code_snippets": [],
+    "complexity": "Not Available",
+    "references": [
+      "https://www.geeksforgeeks.org/ruby/how-to-add-key-and-value-to-hash-in-ruby/"
+    ]
+  },
+  {
+    "url": "https://www.geeksforgeeks.org/ruby-numeric-round-function/",
+    "topic_title": "Ruby | Numeric round() function",
+    "difficulty": "Not Available",
+    "key_concepts": "The round() is an inbuilt method in Ruby returns a number rounded to a number nearest to the given number with a precision of the given number of digits after",
+    "code_snippets": [],
+    "complexity": "Not Available",
+    "references": [
+      "https://www.geeksforgeeks.org/ruby-numeric-round-function/"
+    ]
+  },
+  {
+    "url": "https://www.geeksforgeeks.org/ruby/ruby-math-sin-function/",
+    "topic_title": "Ruby | Math sin() function",
+    "difficulty": "Not Available",
+    "key_concepts": "The sin() is an inbuilt function in Ruby returns the sine of a given angle expressed in radians which is in range [-inf, +inf]....",
+    "code_snippets": [],
+    "complexity": "Not Available",
+    "references": [
+      "https://www.geeksforgeeks.org/ruby/ruby-math-sin-function/"
+    ]
+  },
+  {
+    "url": "https://www.geeksforgeeks.org/ruby/ruby-math-log-function/",
+    "topic_title": "Ruby | Math log() function",
+    "difficulty": "Not Available",
+    "key_concepts": "The log() function in Ruby returns the logarithm value of X. The second parameter is the base given by the user to which the logarithm value",
+    "code_snippets": [],
+    "complexity": "Not Available",
+    "references": [
+      "https://www.geeksforgeeks.org/ruby/ruby-math-log-function/"
+    ]
+  }
+]
